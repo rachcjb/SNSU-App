@@ -1,1 +1,1 @@
-echo "# SNSU-App" >> README.md
+echo "# SNSU-App"
