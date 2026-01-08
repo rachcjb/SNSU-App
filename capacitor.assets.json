@@ -1,0 +1,6 @@
+{
+  "iconBackground": "resources/icon-background.png",
+  "iconForeground": "resources/icon-foreground.png",
+  "splash": "resources/splash.png",
+  "icon": "resources/icon.png"
+}
